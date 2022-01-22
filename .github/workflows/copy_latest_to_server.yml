@@ -19,6 +19,7 @@ jobs:
       with:
         source_folder: 'latest'
         destination_repo: 'helpboard-app/V3-UI-Server'
+        destination_branch: 'main'
         destination_folder: 'static'
         user_email: 'brendenstahle@gmail.com'
         user_name: 'Brenden2008'
